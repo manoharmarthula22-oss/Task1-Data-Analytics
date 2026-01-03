@@ -1,0 +1,7 @@
+customer_id,age,city,amount
+101,25,Hyderabad,1200
+102,30,Bangalore,1500
+103,,Chennai,1000
+104,28,Hyderabad,
+104,28,Hyderabad,
+105,35,Delhi,2000
